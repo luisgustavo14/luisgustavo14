@@ -1,14 +1,38 @@
 # 👨🏻‍💻 Luis Gustavo Oliveira Costa
 
-**`Desenvolvedor Back-End | Foco em C e C++`**
+**`Desenvolvedor Back-End em formação | Dados & BI`**
 
-Me chamo Luis Gustavo, sou estudante de Engenharia de Software e Sistemas de Informação em Belo Horizonte (MG). Tenho grande interesse na área de desenvolvimento de software, com foco em back-end e lógica de sistemas.
+Me chamo Luis Gustavo, sou estudante de Engenharia de Software e Sistemas de Informação pela PUC Minas, em Belo Horizonte (MG).
 
-Possuo uma base sólida em programação estruturada, desenvolvida principalmente com C e C++, o que me proporcionou um forte raciocínio lógico e capacidade de resolução de problemas. Ao longo da minha formação, venho trabalhando com estruturas de dados, manipulação de arquivos e organização de código, sempre buscando escrever soluções eficientes e bem estruturadas.
+Tenho interesse em desenvolvimento de software e análise de dados, com foco em resolver problemas reais através da tecnologia. Possuo perfil analítico, organização e facilidade em transformar dados em informações úteis para tomada de decisão.
 
-Atualmente, estou expandindo meus conhecimentos em desenvolvimento de software, explorando tecnologias como banco de dados, versionamento com Git e conceitos de desenvolvimento web, com o objetivo de evoluir como desenvolvedor e atuar em projetos reais.
+Atualmente, venho aprimorando meus conhecimentos em desenvolvimento back-end, estrutura de dados e banco de dados, aplicando esses conceitos em projetos práticos.
 
-Sou proativo, tenho facilidade de aprendizado e estou constantemente em busca de novos desafios que me permitam crescer na área de tecnologia.
+---
+
+<p align="left">
+    <a href="SEU_LINKEDIN">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+        />
+    </a>
+    <a href="mailto:SEU_EMAIL">
+        <img 
+            alt="Email" 
+            title="Entre em contato" 
+            src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"
+        />
+    </a>
+    <a href="https://github.com/SEU_USUARIO">
+        <img 
+            alt="GitHub" 
+            title="Meu GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
@@ -40,11 +64,19 @@ Sou proativo, tenho facilidade de aprendizado e estou constantemente em busca de
 />
 <img 
     align="left" 
-    alt="Python"
-    title="Python" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
@@ -62,24 +94,28 @@ Sou proativo, tenho facilidade de aprendizado e estou constantemente em busca de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
 
 <br/>
 <br/>
 
-### 📚 Em aprendizado
+---
 
-- Desenvolvimento Back-End (PHP / Node.js)
-- Banco de Dados (SQL e NoSQL)
-- APIs e integração de sistemas
-- Boas práticas de desenvolvimento e versionamento
+### 🚀 Projeto em destaque
+
+🔧 **Lúmen – Sistema de gerenciamento de obras solares**
+
+- Organização e manipulação de dados  
+- Aplicação de lógica e estruturação de sistema  
+- Desenvolvimento voltado para solução real  
+
+---
+
+### 🧠 Áreas de Interesse
+
+- 💻 Desenvolvimento Back-End  
+- 📊 Análise de Dados e BI  
+- 🗄️ Banco de Dados (SQL)  
+- 🧩 Estrutura de Dados e Algoritmos  
 
 ---
 
@@ -89,16 +125,32 @@ Sou proativo, tenho facilidade de aprendizado e estou constantemente em busca de
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      alt="Tecnologias" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=7" 
   />
 
 </p>
+
+<br/>
+<br/>
+
+---
+
+### 🚀 Sobre mim
+
+- 💻 Foco em desenvolvimento back-end  
+- 📚 Aprendizado contínuo  
+- 🧠 Perfil analítico  
+- 🚀 Buscando oportunidade de estágio  
+
+---
+
+💬 *"Evoluindo constantemente como desenvolvedor e transformando conhecimento em soluções reais."*
