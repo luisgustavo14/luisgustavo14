@@ -11,7 +11,7 @@ Atualmente, venho aprimorando meus conhecimentos em desenvolvimento back-end, es
 ---
 
 <p align="left">
-    <a href="SEU_LINKEDIN">
+    <a href="https://www.linkedin.com/in/luis-gustavo-oliveira-costa-709571286?utm_source=share_via&utm_content=profile&utm_medium=member_android">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
