@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Luis Gustavo Oliveira Costa
 
-**`Desenvolvedor Back-End em formação | Dados & BI`**
+**`Dev em formação | Dados & BI`**
 
 Me chamo Luis Gustavo, sou estudante de Engenharia de Software e Sistemas de Informação pela PUC Minas, em Belo Horizonte (MG).
 
